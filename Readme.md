@@ -1,4 +1,4 @@
-# Alt-School__Backend-Engineering-Assignment-2__User-Registration-Form
+# Alt-SchoolBackend-Engineering-Assignment-2__User-Registration-Form
 
 ## Overview
 This project was created to fulfill the requirements of the second assignment of my ALT School Backend Engineering Diploma program.
