@@ -62,3 +62,11 @@ The application should include the following features:
 - HTML
 - CSS
 - JavaScript
+
+## Access
+
+The application can be accessed using the link below:
+
+https://akojenuserah.github.io/Alt-School-Backend-Engineering-Assignment-2__User-Registration-Form-/
+
+---
